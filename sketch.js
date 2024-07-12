@@ -5,7 +5,7 @@ function setup() {
 
 function draw() {
   
-  
+  //alterando o arquivo
   fill("white");
   textSize(30);
   text("Desenhar", 10, 30);
